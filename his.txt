@@ -1,0 +1,243 @@
+cat --help
+cat -help
+cat ?
+cat README.md 
+ls
+cd learn_git2
+cd..
+cd ..
+cd learn_git
+git clone git@github.com:holynova/learn_git2.git
+rm -r learn_git2
+rm learn_git2 -v
+rm -help
+rm learn_git2
+ls -a
+mkdir learn_git2
+git remote 
+history | grep "git"
+history | git
+clear
+history 
+git push origin master
+git log --pretty=oneline
+git commit -m "增加远程推送文件，用来测试"
+git status 
+git add -A
+cat > remote.txt
+cat > 远程.txt
+git push -u origin master
+git log
+git commit -m "test removed"
+git add -all
+git all -all
+git remote add origin git@github.com:holynova/learn_git.git
+cd learn/learn_git/
+cd
+subl id_rsa.pub 
+ls -all
+ssh-keygen -t rsa -C "holy_nova@126.com"
+ls -al 
+cd .ssh
+ssh-keygen -t -rsa -C "holy_nova@126.com"
+ssh-keygen -t -rsa -C "holy_nova@126.comm"
+git commit -help
+rm test.txt 
+git diff 2164 fa75
+git commit -a -m "add to remove files"
+git st
+git checkout -- test.txt 
+git checkout -help
+git checkout --all
+git add --all
+git add --help 
+subl test2.txt 
+cat > test2.txt
+subl test.txt 
+cat > test.txt
+subl
+git reset --hard fa753
+git diff fa753 3848
+git commit -a -m "add fuck to it"
+git s
+git reset HEAD three.txt 
+git add one.txt 
+git add two.txt 
+git reset HEAD one.txt 
+git add three.txt 
+git checkout -- three.txt 
+git checkout -- one.txt
+git checkout --one.txt
+git reset fa753
+ls sub
+cd.
+cd sub
+git reset --hard 5c4f0
+git reset --hard 12429
+git reset 12429
+git diff 5c4f0 fa753
+git commit -a -m "增加子文件夹，并添加文件2"
+git add sub/
+git commit -a -m "增加子文件夹，并添加文件"
+cd 
+history > sub_one.txt 
+subl > sub_one.txt
+mkdir sub
+git commit -a -m "all the files 修改"
+git status
+ls -l
+git commit -m "2 and 3 added"
+echo 'good morning' >three.txt 
+subl three.txt 
+echo "three" three.txt 
+touch three.txt
+subl two.txt 
+subl > two.txt
+git diff 5c4f0 5f58b
+git commit -m "3 lines added"
+cat one.txt 
+subl one.txt 
+echo "two" > one.txt 
+touch one.txt 
+git commit
+cat > one.txt
+cat one.txt
+git init
+git --global
+git config --global user.email "holy_nova@126.com"
+git config --global user.name "sym"
+cd learn_git/
+mkdir learn_git
+cd learn/
+git
+sudo reboot
+sudo apt-get autoremove
+sudo apt-get purge abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview alacarte argyll cups-pk-helper epiphany-browser epiphany-browser-data evolution evolution-common evolution-plugins fonts-cantarell fonts-lyx gdm gir1.2-accountsservice-1.0 gir1.2-caribou-1.0 gir1.2-clutter-gst-2.0 gir1.2-evince-3.0 gir1.2-gck-1 gir1.2-gconf-2.0 gir1.2-gcr-3 gir1.2-gdesktopenums-3.0 gir1.2-gkbd-3.0 gir1.2-gnomedesktop-3.0 gir1.2-gst-plugins-base-1.0 gir1.2-gstreamer-1.0 gir1.2-ibus-1.0 gir1.2-mutter-3.0 gir1.2-networkmanager-1.0 gir1.2-panelapplet-4.0 gir1.2-polkit-1.0 gir1.2-telepathyglib-0.12 gir1.2-telepathylogger-0.2 gir1.2-upowerglib-1.0 gir1.2-xkl-1.0 gjs glchess glines gnect gnibbles gnobots2 gnome-applets gnome-applets-data gnome-color-manager gnome-desktop-data gnome-dictionary gnome-games gnome-games-extra-data gnome-icon-theme-extras gnome-mahjongg gnome-packagekit gnome-packagekit-data gnome-panel gnome-panel-data gnome-search-tool gnome-session-fallback gnome-shell gnome-shell-common gnome-software-manager gnome-sushi gnome-tweak-tool gnome-update-viewer gnotravex gnotski gnumeric gnumeric-common gnumeric-doc gstreamer1.0-alsa gstreamer1.0-plugins-base-apps gstreamer1.0-pulseaudio gstreamer1.0-tools gtali iagno itstool libabiword-2.9 libaudit0 libcaribou-common libcaribou0 libcolamd2.7.1 libcolord-gtk1 libedataserverui-3.0-4 libevolution libgdict-1.0-6 libgdict-common libgdome2-0 libgdome2-cpp-smart0c2a libgjs0c libgoffice-0.8-8 libgoffice-0.8-8-common libgtkmathview0c2a libicc2 libimdi0 libiptcdata0 liblink-grammar4 libloudmouth1-0 libmail-spf-perl libmozjs185-1.0 libmutter0 libnetaddr-ip-perl libots0 libpst4 libtidy-0.99-0 libtracker-extract-0.14-0 libtracker-miner-0.14-0 libtracker-sparql-0.14-0 libwv-1.2-4 libytnef0 lightsoff link-grammar-dictionaries-en mutter mutter-common packagekit packagekit-backend-aptcc packagekit-tools plymouth-theme-ubuntu-gnome-logo plymouth-theme-ubuntu-gnome-text python-cloudfiles python-packagekit quadrapassel re2c simple-scan spamassassin spamc swell-foop tracker tracker-extract tracker-gui tracker-miner-fs tracker-utils ubuntu-gnome-default-settings ubuntu-gnome-desktop xsltproc yelp-tools
+sudo apt-get purge ubuntu-gnome-desktop
+gnome
+sudo apt-get remove gonome
+sudo apt-get remove terminator
+sodu apt-get remove terminator
+apt-get unistall
+gnome-tweak-tool
+sl
+s
+zch
+terminator 
+sudo apt-get install terminator
+bashi
+id
+!!
+f
+!10
+ls test/
+ls -D
+ls D
+clrea
+[1
+fadfdfdfsdf dsajk
+echo \a \a
+echo hello \n world \r
+echo \a
+cal 2016
+cal 2015
+cal -
+cal year
+cal
+dash 
+echo this is     good
+udo apt-get install terminator
+man which
+whatis which
+which
+sudo apt-get install sublimetext3
+sudo apt-get install sublimetext4
+sudo apt-get install sublime
+sudo apt-get install subl
+l
+python
+pyt
+zsh
+sudo apt-get install zsh
+sudo apt-get zsh
+sang7310992
+passwd
+find themes
+whatis find
+find
+whatis grep
+cd ~/.themes
+sudo apt-get update 
+which cp
+cat his.txt
+history >> his.txt
+cd test
+cat ls.txt
+ls >> ls.txt
+mkdir {1987..2016}-0{1..9} {1987..2016}-{10..12}
+cd test/c1
+cd /
+ls.txt
+ls -l >ls.txt
+cd a1
+cd .
+mkdir {a..z}2
+mkdir {a..d}1
+rm -r *1
+rm *1
+ls *1
+mkdir test
+cd 下载
+下载
+chrome
+history
+sudo clear
+sudo less
+sudo passwd
+sudo -s
+sudo -r
+reboot
+sudo -u
+sudo update-grub
+sudo less /etc/default/grub
+less /etc/default/grub
+sudo /etc/default/grub
+/etc/default/grub
+su root
+sudo passwd root
+sudo gnome
+sudo apt-get install ubuntu-gnome-desktop
+sudo apt-get install gnome-shell
+ghome
+shutdown -r now
+sudo -sh
+sodu reboot
+sudo update grub
+vi /etc/default/grub
+cd /etc/default/grub
+xrandr --newmode "1360x768_60.00"   84.75  1360 1432 1568 1776  768 771 781 798 -hsync +vsync
+xrandr --query | less
+xrandr query | less
+less xrandr query
+xrandr --query
+xrandr --query |grep connected
+xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+Modeline "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+cvt 1920 1080 60
+xrandr --fb 1024x768 --output VGA --transform 1.24,0.16,-124,0,1.24,0,0,0.000316,1
+sudo xrandr --addmode sang 1920x1080
+xrandr
+xrand --addnewmode
+man xrandr
+whatis xrandr
+sudo xrandr --newmode "1440x900" 106.50 1440 1528 1672 1904 900 903 909 934 -hsync +vsync
+sudo xrandr --output VGA1 --mode 1440x900
+sudo xrandr --addmode VGA1 1440x900
+sudo xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+cvt 1920 1080
+sudo apt-get arandr
+sudo apt-get ARandR
+sudo xrandr --newmode "1920x1080"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsynco
+sudo xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsynco
+sudu xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+sudo xrandr
