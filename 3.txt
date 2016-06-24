@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 I am in dev
 I am in dev
 I am in dev
 I am in dev
 I am in dev
-=======
 dev2  dev2 dev2
 3.txt in master
 3.txt in master
@@ -17,6 +15,4 @@ dev2  dev2 dev2
 3.txt in master
 
 Merge master and dev2
->>>>>>> master
-
 merge master and dev
