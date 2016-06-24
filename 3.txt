@@ -3,3 +3,21 @@ i am in DEV2
 i am in DEV2 
 i am in DEV2 
 
+I am in dev
+I am in dev
+I am in dev
+I am in dev
+I am in dev
+dev2  dev2 dev2
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+3.txt in master
+
+Merge master and dev2
+merge master and dev
